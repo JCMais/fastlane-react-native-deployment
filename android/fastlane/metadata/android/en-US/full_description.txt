@@ -1,0 +1,3 @@
+Automated deployment of React Native Apps using Fastlane - Part 1 - Play Store
+
+This is the resulting app from the post at https://jonathancardoso.com/en/blog/automated-release-publish-deployment-react-native-android-apps-using-fastlane-part-1-play-store/

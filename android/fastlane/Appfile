@@ -1,0 +1,2 @@
+json_key_file("F:\\jc\\api-7688156304812482397-916380-da02a65ac30a.json") # Path to the json secret file - Follow https://docs.fastlane.tools/actions/supply/#setup to get one
+package_name("com.fastlane_react_native_deployment") # e.g. com.krausefx.app

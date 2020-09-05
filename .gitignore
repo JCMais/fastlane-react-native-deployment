@@ -60,3 +60,6 @@ buck-out/
 
 android/keystore.properties
 android/app/*/*.aab
+
+android/vendor
+android/.bundle
